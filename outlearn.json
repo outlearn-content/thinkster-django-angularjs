@@ -1,0 +1,83 @@
+{
+  "olpVersion" : "0.1",
+  "id" : "django_tutorial",
+  "version" : "0.0.1",
+  "title": "Building Web Applications with Django and AngularJS",
+  "description": "Learn how to use AngularJS and Django to build a simplified Google+ clone called \"Not Google Plus\".",
+  "type" : "module",
+  "labels" : [
+  ],
+  "git": "http://github.com/brwr/thinkster-django-angular-tutorial",
+  "homepage": "http://github.com/brwr/thinkster-django-angular-tutorial",
+  "authors" : "James Brewer",
+  "organization" : "Thinkster",
+  "license" : "public",
+  "contact" : {
+    "email" : "james@jamesbrewer.io",
+    "url" : "http://jamesbrewer.io/"
+  },
+  "learningPath" : true,
+  "parts" : [
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/introduction.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/extending.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/serializing.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/registering.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/login.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/logout.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/posts_model.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/rendering_posts.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/new_posts.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/displaying_profiles.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/updating_profiles.json"
+    }
+    {
+      "type" : "module",
+      "contentType" : "outlearn/olp",
+      "location" : "./modules/congratulations.json"
+    }
+  ]
+}
+

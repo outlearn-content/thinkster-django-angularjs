@@ -1,0 +1,42 @@
+{
+  "olpVersion" : "0.1",
+  "id" : "django_tutorial-introduction",
+  "version" : "0.0.1",
+  "title" : "Learning Django and AngularJS",
+  "description": "In this tutorial you will build a simplified Google+ clone called “Not Google Plus” with Django and AngularJS."
+  "type" : "module",
+  "labels" : [
+  ],
+  "homepage": "http://github.com/brwr/thinkster-django-angular-tutorial",
+  "authors" : "James Brewer",
+  "organization" : "Thinkster",
+  "license" : "public",
+  "contact" : {
+    "email" : "james@jamesbrewer.io",
+    "url" : "http://jamesbrewer.io/"
+  },
+  "learningPath" : false,
+  "parts" : [
+    {
+      "type" : "asset",
+      "contentType" : "video/hov",
+      "location" : "assets/django-intro.mov"
+    }
+    {
+      "type" : "asset",
+      "contentType" : "text/markdown",
+      "location" : "assets/chapter00-0.md"
+    }
+    {
+      "type" : "asset",
+      "contentType" : "video/mov",
+      "location" : "assets/setup-environment.mov"
+    }
+    {
+      "type" : "asset",
+      "contentType" : "text/markdown",
+      "location" : "assets/chapter00-0.md"
+    }
+  ]
+}
+

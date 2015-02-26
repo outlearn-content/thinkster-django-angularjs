@@ -1,0 +1,27 @@
+{
+  "olpVersion" : "0.1",
+  "id" : "django_tutorial-registering",
+  "version" : "0.0.1",
+  "title" : "Registering new Users",
+  "description": "",
+  "type" : "module",
+  "labels" : [
+  ],
+  "homepage": "http://github.com/brwr/thinkster-django-angular-tutorial",
+  "authors" : "James Brewer",
+  "organization" : "Thinkster",
+  "license" : "public",
+  "contact" : {
+    "email" : "james@jamesbrewer.io",
+    "url" : "http://jamesbrewer.io/"
+  },
+  "learningPath" : false,
+  "parts" : [
+    {
+      "type" : "asset",
+      "contentType" : "text/markdown",
+      "location" : "assets/chapter03.md"
+    }
+  ]
+}
+
